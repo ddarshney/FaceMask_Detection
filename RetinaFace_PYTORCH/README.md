@@ -120,7 +120,9 @@ python test_fddb.py --trained_model weight_file --network mobile0.25 or resnet50
 ## References
 - [FaceBoxes](https://github.com/zisianw/FaceBoxes.PyTorch)
 - [Retinaface (mxnet)](https://github.com/deepinsight/insightface/tree/master/RetinaFace)
-```
+
+## Literature
+
 @inproceedings{deng2019retinaface,
 title={RetinaFace: Single-stage Dense Face Localisation in the Wild},
 author={Deng, Jiankang and Guo, Jia and Yuxiang, Zhou and Jinke Yu and Irene Kotsia and Zafeiriou, Stefanos},
