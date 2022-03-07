@@ -1,1 +1,1 @@
-# phase-1-project
+# Phase-1 and 2 project
