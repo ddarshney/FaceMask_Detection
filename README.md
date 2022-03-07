@@ -1,1 +1,1 @@
-# Phase-1 and 2 project
+# Codebase for face detection and face-mask detection.
